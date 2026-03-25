@@ -14,6 +14,7 @@ $hashed_password = password_hash($pass, PASSWORD_DEFAULT);
 
 // dhyan se dekh: column name 'name' hai (na ki username)
 // aur hum id or created_at Not bhej rahe kyunki wo auto-managed hain
+
 $sql = "INSERT INTO users (name, email, password) VALUES ('$name', '$email', '$hashed_password')";
 
 if (mysqli_query($conn, $sql)) {
