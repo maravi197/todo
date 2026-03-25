@@ -22,6 +22,7 @@ if (mysqli_query($conn, $sql)) {
 } else {
     echo "error logic me hai: " . mysqli_error($conn);
 }
+// new thing 
 
 mysqli_close($conn);
 ?>
