@@ -1,0 +1,3 @@
+Everyone,
+use fork method, I have limited write persmission as of now, to get access to github and for every changes you want to merge create PR (pull request) like we used to do.
+note : update your work (again) as the previous commit is being restored, the recent files you'd pushed will be deleted from github.
