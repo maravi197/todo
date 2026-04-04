@@ -40,7 +40,7 @@ The architecture follows a structured approach with clear separation of concerns
 - Temporary task storage using browser local storage
 - Ideal for short-term or one-off task management
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 Frontend (HTML, CSS, JavaScript)
@@ -70,7 +70,7 @@ Database (MySQL)
     ├── schema.sql
 ```
 
-## 👥 Project Team
+## Project Team
 
 | Role | Member | Responsibilities |
 |------|--------|------------------|
@@ -79,7 +79,7 @@ Database (MySQL)
 | **Server-Side Backend** | ADITYA EKKA | Backend server, database integration, website hosting |
 | **Database Administrator** | RAHUL MARAVI | Database setup, table creation, query writing |
 
-## 🚀 Getting Started
+## Getting Started
 
 Visit the live application at: [https://mehfilism.github.io/todo/](https://mehfilism.github.io/todo/)
 

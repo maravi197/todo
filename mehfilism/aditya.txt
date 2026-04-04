@@ -1,0 +1,17 @@
+# Aditya Ekka (server-side backend)
+
+workdone until now : 
+- connect team with github
+- website hosting
+
+learnt until now : 
+- html/css basics
+- javascript basics
+
+learned on Apr 4, 2026 : about html & javascript basics
+- html request/response
+- error codes
+- html methods: get, post, delete etc.
+- learned to test api 'Network' on web browser (basics)
+- installed postman
+- javascript: variables, array ...

@@ -1,0 +1,19 @@
+# Notice for Members of Mehfil-ism
+
+## Note 1: work updates
+create a .txt file inside mehfilism of your name. Then update what have you 'learnt' and 'coded' by now.
+You have to do this today only. Then next day onwards you have to append a header and description for each day what have you learnt and created/coded.
+
+## Note 2: avoid git conflicts
+Read about git conflicts. Or simply, try to avoid editing/touching others files of codes. Do code only on your file. Else, in case, you have necessarily change the others file - follow the correct git workflow. (don't do this unless we have a pending PR that has to be accepted for sure)
+   - sync fork (on website)
+   - git pull
+   - write code
+   - git add
+   - git commit -m "message"
+   - git push
+   - create pr
+
+## Note 3: stay updates
+stay updated with main branch. Do git pull at least two-three times a day.
+Also you have to make at least one PR daily. (as is necessarily by Note 1).
