@@ -23,24 +23,24 @@ The architecture follows a structured approach with clear separation of concerns
 
 ## FEATURES
 
-### 🔐 Account Mode
+### Account Mode
 - User registration and login system
 - Personalized user profiles with name and additional information
 - Persistent task storage in the database
 - Secure user session management
 
-### 📝 To-Do Management
+### To-Do Management
 - Add new tasks with descriptions
 - Delete unwanted tasks
 - Mark tasks as completed
 - View all tasks in an organized list
 
-### 👤 Guest Mode
+### Guest Mode
 - No login required for immediate use
 - Temporary task storage using browser local storage
 - Ideal for short-term or one-off task management
 
-## 🏗️ System Architecture
+## SYSTEM ARCHITECTURE
 
 ```
 Frontend (HTML, CSS, JavaScript)
@@ -70,7 +70,7 @@ Database (MySQL)
     ├── schema.sql
 ```
 
-## 👥 Project Team
+## PROJECT TEAM
 
 | Role | Member | Responsibilities |
 |------|--------|------------------|
@@ -79,7 +79,7 @@ Database (MySQL)
 | **Server-Side Backend** | ADITYA EKKA | Backend server, database integration, website hosting |
 | **Database Administrator** | RAHUL MARAVI | Database setup, table creation, query writing |
 
-## 🚀 Getting Started
+## GETTING STARTED
 
 Visit the live application at: [https://mehfilism.github.io/todo/](https://mehfilism.github.io/todo/)
 
