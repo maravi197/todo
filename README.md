@@ -4,7 +4,7 @@
 
 A web-based To-Do List application that supports both guest and account-based task management, built with a clean separation of frontend, backend, and database layers.
 
-## PROJECT OVERVIEW
+## Project Overview
 
 This project develops a responsive web application for managing personal to-do lists. The system supports two modes of operation: guest mode for quick, temporary task management and account mode for persistent, user-specific task storage.
 
@@ -21,7 +21,7 @@ The architecture follows a structured approach with clear separation of concerns
 - Provide account-based functionality with user profiles
 - Ensure secure data storage and retrieval from a server-side database
 
-## FEATURES
+## Features
 
 ### Account Mode
 - User registration and login system
@@ -40,7 +40,7 @@ The architecture follows a structured approach with clear separation of concerns
 - Temporary task storage using browser local storage
 - Ideal for short-term or one-off task management
 
-## SYSTEM ARCHITECTURE
+## 🏗️ System Architecture
 
 ```
 Frontend (HTML, CSS, JavaScript)
@@ -53,7 +53,7 @@ Database (MySQL)
 ```
 
 
-## PROJECT STRUCTURE
+## Project Structure
 
 ```
 /frontend
@@ -70,7 +70,7 @@ Database (MySQL)
     ├── schema.sql
 ```
 
-## PROJECT TEAM
+## 👥 Project Team
 
 | Role | Member | Responsibilities |
 |------|--------|------------------|
@@ -79,7 +79,7 @@ Database (MySQL)
 | **Server-Side Backend** | ADITYA EKKA | Backend server, database integration, website hosting |
 | **Database Administrator** | RAHUL MARAVI | Database setup, table creation, query writing |
 
-## GETTING STARTED
+## 🚀 Getting Started
 
 Visit the live application at: [https://mehfilism.github.io/todo/](https://mehfilism.github.io/todo/)
 
